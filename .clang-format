@@ -1,0 +1,6 @@
+BasedOnStyle: Google
+IndentWidth: 4
+KeepEmptyLinesAtTheStartOfBlocks: true
+ColumnLimit: 100
+UseTab: Never
+AllowShortIfStatementsOnASingleLine: false

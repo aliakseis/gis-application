@@ -1,0 +1,2 @@
+http://shapelib.maptools.org/
+Shapelib 1.5.0
